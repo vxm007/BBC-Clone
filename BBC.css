@@ -1,0 +1,339 @@
+#topbar {
+			
+			width:1000px;
+			margin:0 auto;
+		    height:40px;
+			
+			
+			}
+			
+			body {
+			
+			margin:0;
+			padding:0;
+			font-family: Helvetica, Arial, sans-serif;
+			
+			}
+			
+			#logo {
+			
+			margin-top:8px;
+			margin-right:8px;
+			width:100px;
+			float:left;
+			
+			}
+			
+			.topbar-section {
+			
+			float:left;
+			border-left:1px #CCCCCC solid;
+			height:100%;
+			
+			}
+			
+			#signin-text {
+			font-weight:bold;
+			font-size:90%;
+			position:relative;
+			top:14px;
+			margin-left:20px;
+			padding-right:50px;
+			}
+			
+			#wiggly {
+			
+			float:left;
+			height:40px;
+			
+			}
+			
+			#bell {
+			
+			height: 15px;
+			margin:9px 12px;
+			
+			}
+			
+			#bell-div {
+			
+			float:left;
+			
+			}
+			
+			
+			.topbar-menu {
+			
+			font-weight:bold;
+			font-size:90%;
+			padding:13px 15px 0 15px;
+			height:27px;
+			
+			}
+			
+			
+			#arrow {
+			padding-left:10px;
+			width:20px;
+			
+			}
+			
+			#search-box {
+			
+			background-color:#DDDDDD;
+			border:none;
+			font-weight:bold;
+			font-size:14px;
+			padding:5px;
+			margin: 5px 0 5px 5px;
+			float:left;
+			
+			
+			}
+			
+			#searchglass {
+			margin-top:5px;
+			height:26px;
+			
+			
+			}
+			
+		
+		.clear {
+		
+		clear:both;
+		
+		}
+		
+		#menu-bar-container {
+		
+		border-top: 1px solid #CCCCCC;
+		background-color:#BB1919;
+		width:100%;
+		height:70px;
+		
+		}
+		
+		
+		#menu-bar {
+		
+		width:1000px;
+		margin: 0 auto;
+		
+		}
+		
+		h1 {
+		
+		padding:0;
+		margin:0;color:white;
+		font-size: 40px;
+		font-weight:normal;
+		padding-top:10px;
+		float:left;
+		
+		
+		}
+		
+		#local-news {
+		
+		border: 1px #BB4545 solid;
+		float:right;
+		width:180px;
+		margin:20px;
+		padding:5px 5px 0 10px;
+		margin: 15px 10px 0 0;
+		
+		}
+		
+		#local-news a {
+		
+		color:white;
+		text-decoration:none;
+		font-size:25px;
+		position:relative;
+		
+		}
+		
+		#local-news a:hover{
+		
+		text-decoration:underline;
+		
+		}
+		
+		#menu-bar2-container {
+		
+		background-color: #A91717;
+		width:100%;
+		
+		}
+		
+		#menu-bar-2{
+		
+		width:1000px;
+		margin:0 auto;
+		height:40px;
+		
+		}
+		
+		#menu-bar-2 a {
+		
+		color:white;
+		text-decoration:none;
+		padding: 0 10px;
+		border-right: 1px solid #BB4545;
+		font-size:15px;
+		position:relative;
+		top: 9px;
+		
+		}
+		
+		#menu-bar-2 a:hover {
+		
+		text-decoration:underline;
+		
+		}
+		
+		
+		.no-border {
+		
+		border:none !important;
+		
+		}
+		
+		#main-article {
+		
+		
+		
+		}
+		
+		
+		#page-container {
+		
+		width: 1000px;
+		margin: 0 auto;
+		
+		}
+		
+		h2 {
+		
+		font-weight: normal;
+		margin-top:40px;
+		font-size: 20px;
+		border-bottom: 2px solid #a91717;
+		width:105px;
+		
+		}
+		
+		h3 a {
+		
+		color:black;
+		font-size: 30px;
+		text-decoration:none;
+		
+		}
+		
+		h3 a:hover {
+		color:#1167a8;
+		
+		}
+		
+		#article-summary {
+		color: #5a5a5a;
+		width: 250px;
+		float:left;
+		
+		}
+		
+		#topic-link {
+		text-decoration:none;
+		color:#a91717;
+		font-weight:bold;
+		border-left: 1px solid #CCCCCC;
+		padding-left: 8px;
+		
+		}
+		
+		#article-summary a:hover {
+		color: #1167a8;
+		}
+		
+		#article-container {
+		float:left;
+		width:600px;
+		border-right: 1px solid #CCCCCC;
+		}
+		
+		#main-article-image {
+		width: 300px;
+		
+		}
+		
+		#article-hr {
+		border-top: 1px solid #a91717;
+		width: 50px;
+		
+		}
+		
+		.article-link {
+		 color:black;
+		 text-decoration:none;
+		
+		}
+		
+		#watch-listen {
+		
+		margin-left: 10px;
+		width:350px;
+		float:right;
+		margin-right: 20px;
+		
+		
+		}
+		
+		h4 {
+		
+		font-weight:normal;
+		font-size:20px;
+		
+		}
+		
+		.article-side-image {
+		
+			float:left;
+			margin-right:10px;
+
+			
+		
+		}
+		
+		.watch-listen-link {
+		
+			text-decoration:none;
+			color:black;
+			font-weight:bold;
+			font-size:18px;
+		
+		}
+		
+		.watch-listen-link:hover {
+			
+			color:#1167a8;
+		
+		}
+		
+		.date {
+		color: #5a5a5a;
+		padding-top:-10px;
+		
+		
+		}
+		
+		.side-article {
+		
+		float:right;
+		width:250px;
+		position:relative;
+		top:-80px;
+		left:20px;
+		
+		}
